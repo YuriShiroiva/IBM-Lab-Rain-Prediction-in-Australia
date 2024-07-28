@@ -1,4 +1,4 @@
-##This final project will be graded by your peers who are completing this course during the same session. This project is worth 53 points, broken down as follows:
+## This final project will be graded by your peers who are completing this course during the same session. This project is worth 53 points, broken down as follows:
 
 1.     Splitting the dataset into training and testing data for regression (3 marks)
 
